@@ -1,0 +1,12 @@
+
+body{
+    background-color:black;
+    background-image: url("assets/images/devil.jpg");
+}
+
+h1{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    text-align: center;
+    padding-top: 15%;
+    font-size:25px;
+}
